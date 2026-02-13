@@ -30,6 +30,20 @@
 - Current Ratio: 2.11 (Comfortable liquidity position)  
 
 ---
+## Model Preview
+
+### Ratio Calculation Sheet
+
+![Ratio Calculation](ratio_calculation.png)
+
+### Credit Scoring Sheet
+
+![Scoring Model](scoring_model.png)
+
+### Stress Testing Sheet
+
+![Stress Testing](stress_testing.png)
+
 
 ## Credit Scoring Model
 
