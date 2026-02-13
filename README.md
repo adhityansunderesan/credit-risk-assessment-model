@@ -1,47 +1,77 @@
-Credit Risk Assessment Model – Infosys
-Overview
+📊 Credit Risk Assessment & Scoring Model
+Case Study: Infosys
+🔍 Project Objective
 
 This project evaluates the creditworthiness of Infosys under an assumed ₹200 Crore term loan exposure.
 
-The objective was to simulate how a bank assesses credit risk using financial ratio analysis, structured scoring, and stress testing.
+The goal was to simulate a structured bank-style credit assessment using financial ratios, weighted scoring, and stress testing.
 
-Methodology
+🧮 Analytical Framework
 
-3-year financial statement analysis
+The evaluation was conducted in four stages:
 
-Ratio calculation (Leverage, Liquidity, Profitability, Cash Flow)
+Financial Ratio Analysis (3-Year Trend)
 
-Weighted credit scoring framework
+Weighted Credit Scoring Model
 
-Stress testing under adverse revenue and margin scenarios
+Downside Stress Testing
 
-Qualitative risk assessment
+Qualitative Risk Assessment
 
-Key Financial Indicators (FY2025)
+📈 Key Financial Indicators (FY2025)
+Metric	Value	Interpretation
+Debt-to-Equity	0.085	Extremely low leverage
+Interest Coverage	94x	Strong earnings cushion
+EBIT Margin	~24%	Stable operating performance
+Free Cash Flow Margin	~20%	Strong cash conversion
+Current Ratio	2.11	Comfortable liquidity
+🧾 Credit Scoring Result
 
-Debt-to-Equity: 0.085
+Final Weighted Score: 4.5 / 5
 
-Interest Coverage: 94x
-
-EBIT Margin: ~24%
-
-Free Cash Flow Margin: ~20%
-
-Current Ratio: 2.11
-
-Final Credit Score: 4.5 / 5
 Risk Classification: Low Credit Risk
 
-Stress Testing Summary
+The borrower demonstrates strong solvency, profitability stability, and substantial cash resilience.
 
-Even under severe stress (30% revenue decline and margin compression), interest coverage remained above 40x, indicating strong financial resilience.
+⚠️ Stress Testing Summary
 
-Files Included
+Three downside scenarios were simulated:
 
-Credit_Risk_Model.xlsx → Financial calculations and scoring model
+Revenue decline of 20%
 
-Credit_Risk_Presentation.pdf → Summary presentation
+Revenue decline of 15% with margin compression
 
-Note
+Severe stress: 30% revenue drop & reduced margins
 
-This is an academic credit risk evaluation model based on publicly available financial statements.
+Even under severe stress, interest coverage remained above 40x, indicating high financial resilience.
+
+🏢 Qualitative Risk Considerations
+
+Exposure to global IT spending cycles
+
+Dependence on US and European markets
+
+Potential client concentration risk
+
+Currency sensitivity
+
+Overall business risk assessed as moderate but manageable.
+
+📁 Repository Contents
+
+📄 Credit_Risk_Model.xlsx — Financial model and scoring engine
+
+📄 Credit_Risk_Presentation.pdf — Executive summary presentation
+
+📌 Model Limitations
+
+Based on historical financial data
+
+No statistical probability of default modeling
+
+Assumes stable interest environment during stress scenarios
+
+👤 Author
+
+Adhityan Sunderesan
+B.Tech – Industrial Engineering
